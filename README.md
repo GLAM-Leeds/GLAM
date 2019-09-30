@@ -2,7 +2,9 @@
 
 Here is where public Infomation on GLAM resides
 
+* [GLAM GitHub Page](https://github.com/GLAM-Leeds)
 * [What is GLAM]()
+* [Request to Join]()
 * [How to Download]()
 * [How to Contribute]()
 * [Code of Conduct]()
