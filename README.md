@@ -25,3 +25,6 @@ Here is where public Infomation on GLAM resides
 
 A short GLAM Page can link to a Leeds form requesting access to the GitHub Organisation, giving their githubID and agreeing to license conditions - this could be set up to automatically create a database of users and invite via github ID. Users can safely be added to the organisation defaulting to the same view as the public but can now ask via the teams discussion board for further access, the admins or people responsable can grant access via github. These people should have access to the database and or/ know the person if they requesting access to bespoke team
 
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">GLAM-Leeds</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/GLAM-Leeds/" property="cc:attributionName" rel="cc:attributionURL">https://github.com/GLAM-Leeds/</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
